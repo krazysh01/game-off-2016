@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B4928CF2-E834-1B9F-815C-B8BC1B6B2837}") = "TankCode", "Assembly-CSharp-firstpass.csproj", "{184FE1E2-E4DE-CB81-30F2-56B3C1C09091}"
+EndProject
+Project("{B4928CF2-E834-1B9F-815C-B8BC1B6B2837}") = "TankCode", "Assembly-CSharp.csproj", "{7A207865-81F8-5925-1035-7CA5EE782AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184FE1E2-E4DE-CB81-30F2-56B3C1C09091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184FE1E2-E4DE-CB81-30F2-56B3C1C09091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184FE1E2-E4DE-CB81-30F2-56B3C1C09091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184FE1E2-E4DE-CB81-30F2-56B3C1C09091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A207865-81F8-5925-1035-7CA5EE782AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A207865-81F8-5925-1035-7CA5EE782AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A207865-81F8-5925-1035-7CA5EE782AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A207865-81F8-5925-1035-7CA5EE782AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

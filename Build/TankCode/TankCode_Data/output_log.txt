@@ -1,0 +1,76 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     1792 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kyle\Documents\GameOff\Build\TankCode\TankCode_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kyle\Documents\GameOff\Build\TankCode\TankCode_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kyle\Documents\GameOff\Build\TankCode\TankCode_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Kyle\Documents\GameOff\Build\TankCode\TankCode_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Kyle\Documents\GameOff\Build\TankCode\TankCode_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kyle\Documents\GameOff\Build\TankCode\TankCode_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kyle\Documents\GameOff\Build\TankCode\TankCode_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kyle\Documents\GameOff\Build\TankCode\TankCode_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Kyle\Documents\GameOff\Build\TankCode\TankCode_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Kyle\Documents\GameOff\Build\TankCode\TankCode_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.071 seconds
+Platform assembly: C:\Users\Kyle\Documents\GameOff\Build\TankCode\TankCode_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Kyle\Documents\GameOff\Build\TankCode\TankCode_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on StartOptions
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on EventSystemChecker
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.073787 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 17f8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.964783 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 973.
+Total: 0.950629 ms (FindLiveObjects: 0.060296 ms CreateObjectMapping: 0.044473 ms MarkObjects: 0.832602 ms  DeleteObjects: 0.012401 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.211762 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 863.
+Total: 1.691718 ms (FindLiveObjects: 0.123158 ms CreateObjectMapping: 0.130428 ms MarkObjects: 1.413328 ms  DeleteObjects: 0.023092 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.711624 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 980.
+Total: 1.085761 ms (FindLiveObjects: 0.060723 ms CreateObjectMapping: 0.046612 ms MarkObjects: 0.901023 ms  DeleteObjects: 0.076974 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.130662 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 866.
+Total: 1.112702 ms (FindLiveObjects: 0.087237 ms CreateObjectMapping: 0.077401 ms MarkObjects: 0.927964 ms  DeleteObjects: 0.019671 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.749683 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 981.
+Total: 1.283328 ms (FindLiveObjects: 0.088520 ms CreateObjectMapping: 0.059013 ms MarkObjects: 1.061813 ms  DeleteObjects: 0.072697 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.829181 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 893.
+Total: 0.943359 ms (FindLiveObjects: 0.057302 ms CreateObjectMapping: 0.043618 ms MarkObjects: 0.824049 ms  DeleteObjects: 0.017960 ms)
+
